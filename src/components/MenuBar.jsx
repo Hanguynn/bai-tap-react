@@ -36,7 +36,7 @@ const styles = {
     borderBottom: "1px solid white",
   },
 
-  // NavLink trả về function để biết active
+
   link: ({ isActive }) => ({
     textDecoration: "none",
     color: "#333",

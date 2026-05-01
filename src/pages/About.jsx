@@ -33,6 +33,7 @@ function About() {
           <p className="about-label">BRAND VIDEO</p>
           <h2>Discover our collection</h2>
 
+          {/* em chèn video ytb khác lên */}
           <div className="ratio ratio-16x9">
             <iframe
               src="https://www.youtube.com/embed/9No-FiEInLA"
