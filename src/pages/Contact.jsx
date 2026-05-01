@@ -12,7 +12,7 @@ function Contact() {
       <div className="row mt-4">
         <div className="col-md-5">
           <h5>Thông tin cửa hàng</h5>
-          <p>Email: sewisme012gmail.com</p>
+          <p>Email: sewisme01gmail.com</p>
           <p>Hotline: (+84) 855 899 356</p>
           <p>Địa chỉ: Ho Chi Minh City, Vietnam</p>
         </div>
